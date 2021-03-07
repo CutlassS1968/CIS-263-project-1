@@ -5,7 +5,7 @@ Suggestion:
 Use a map with the following structure
 * Key: A string
 * Value: A set (LinkedList, ArrayList, TreeSet) of words
-###Pseudo-code
+### Pseudo-code 
 ```Read all the words in the dictionary
 For each word in the dictionary
    Calculate the key
